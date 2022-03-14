@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1049321351926",
+    "project_id": "game-lang",
+    "storage_bucket": "game-lang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049321351926:android:441d15b7149fbb32955ad7",
+        "android_client_info": {
+          "package_name": "com.gamelang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049321351926-bgto1af2rhc958hsq69iij2bhclvg5qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJFAEfk9RON7gF1Fc53i2utnwXALl1w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049321351926-bgto1af2rhc958hsq69iij2bhclvg5qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
